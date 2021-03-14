@@ -2,7 +2,8 @@
 <h2>Por Manuel Jiménez Seba</h2>
 
 <p>La tabla sobre la que actúa es igual que la tabla que creamos en clase.</p>
-
+<p>La página principal del crud debería verse algo parecido a esto:</p>
+<img src="proof.bmp">
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
